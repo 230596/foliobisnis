@@ -113,7 +113,7 @@ strong {
     display: inline-block;
     vertical-align: top;
     margin-top: 5px;
-    min-width: 260px;
+    min-width: 400px;
     position: relative;
 }
 
@@ -617,4 +617,12 @@ a.topoint {
 .logoku {
     max-width: 150px;
     display: block;
+}
+
+.alamat {
+    color: #ffffff;
+}
+
+.card-deck .card {
+    border-radius: 30px;
 }
